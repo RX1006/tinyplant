@@ -24,7 +24,7 @@
   .wrap{max-width:760px;margin:0 auto;padding:0 24px;}
   header.site-nav{padding:22px 0;border-bottom:1px solid var(--line);}
   header.site-nav .wrap{max-width:1160px;display:flex;justify-content:space-between;align-items:center;}
-  .brand{font-weight:700;font-size:1.2rem;color:var(--ink);}
+  .brand{display:flex;align-items:center;gap:8px;font-weight:700;font-size:1.2rem;color:var(--ink);text-decoration:none;}
   .nav-cta{font-weight:800;font-size:0.9rem;color:#fff;background:var(--green);padding:12px 24px;border-radius:999px;}
   main{padding:60px 0 90px;}
   h1{font-size:clamp(2rem,4vw,2.7rem);font-weight:700;margin-bottom:14px;}
@@ -89,7 +89,7 @@
 
 <header class="site-nav">
   <div class="wrap">
-    <a class="brand" href="/">TinyPlantCo</a>
+    <a class="brand" href="/"><svg width="22" height="22" viewBox="0 0 24 24" fill="none"><path d="M12 21V10" stroke="#FF8A3D" stroke-width="2" stroke-linecap="round"/><path d="M12 10C12 10 4 10 4 3C11 3 12 10 12 10Z" fill="#07B261"/><path d="M12 13C12 13 20 13 20 6C13 6 12 13 12 13Z" fill="#3DA9FC"/></svg>TinyPlantCo</a>
     <a class="nav-cta" href="/#signup">Enter the Raffle</a>
   </div>
 </header>
