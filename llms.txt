@@ -1,0 +1,24 @@
+# TinyPlantCo
+
+> TinyPlantCo makes a first garden kit for kids ages 2 to 6 — real seeds, kid-safe tools, and a picture-based guide for pre-readers. The kit is currently available through a free, no-purchase-necessary raffle for ten families.
+
+TinyPlantCo's blog publishes practical gardening guides for parents raising a first-time gardener, including plant-specific explainer guides written for a young child's level of curiosity.
+
+## Pages
+
+- [Homepage](https://www.tinyplantco.com/): Product overview and raffle signup — ten free Garden Kits given away, no purchase necessary.
+- [Blog](https://www.tinyplantco.com/blog): Listing of all gardening guides and plant explainers.
+
+## Blog Guides
+
+- [Welcome to TinyPlantCo](https://www.tinyplantco.com/blog/welcome-to-tinyplantco): Why the first Garden Kit launched as a raffle instead of a store, and what's included.
+- [5 Easy Plants for Kids to Grow (Ages 2-6)](https://www.tinyplantco.com/blog/5-easy-plants-for-kids-to-grow): Five beginner plants picked for fast, visible growth — sunflower, snap pea, radish, basil, marigold.
+- [What Is a Sunflower?](https://www.tinyplantco.com/blog/what-is-a-sunflower): Kid-friendly explainer covering sunflower growth, height, and why it turns to face the sun.
+- [What Is a Snap Pea?](https://www.tinyplantco.com/blog/what-is-a-snap-pea): Kid-friendly explainer covering snap pea climbing behavior and edible pods.
+- [What Is a Radish?](https://www.tinyplantco.com/blog/what-is-a-radish): Kid-friendly explainer covering why radishes are the fastest vegetable to grow.
+- [What Is Basil?](https://www.tinyplantco.com/blog/what-is-basil): Kid-friendly explainer covering basil's scent, growth, and safe picking.
+- [What Is a Marigold?](https://www.tinyplantco.com/blog/what-is-a-marigold): Kid-friendly explainer covering marigold's beginner-friendly, low-maintenance growth.
+
+## Optional
+
+- [Sitemap](https://www.tinyplantco.com/sitemap.xml): Full list of indexed pages for search engines.
